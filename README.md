@@ -2,7 +2,7 @@
 
 Independent portfolio project for annotation consistency and dataset QA. It is not affiliated with Handshake or any AI lab.
 
-Status: **Implemented, tested, and frontend build verified.** Not deployed or published to GitHub.
+Status: **Implemented, tested, and frontend build verified.** Not deployed. Public GitHub repository: https://github.com/JPPREMKUMAR/ai-data-annotation-qa.
 
 ## Features
 
@@ -44,3 +44,4 @@ See [`docs/requirements.md`](docs/requirements.md) for MVP acceptance criteria, 
 ## License
 
 MIT. See `LICENSE`.
+
