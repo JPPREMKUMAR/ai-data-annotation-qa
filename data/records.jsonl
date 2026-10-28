@@ -1,0 +1,6 @@
+{"record_id":"annotation-001","category":"factuality","content":"Prompt: What is 2 + 2?\nResponse: 4."}
+{"record_id":"annotation-002","category":"factuality","content":"Prompt: What is 2 + 2?\nResponse: 5."}
+{"record_id":"annotation-003","category":"completeness","content":"Prompt: Explain the boiling point of water and state the condition.\nResponse: Water boils at 100 °C."}
+{"record_id":"annotation-004","category":"factuality","content":"Prompt: Are all bacteria harmful?\nResponse: Yes, all bacteria cause disease."}
+{"record_id":"annotation-005","category":"ambiguity","content":"Prompt: Which answer is better?\nResponse: Answer A is better.\nContext: Candidate answers and criteria are absent."}
+{"record_id":"annotation-006","category":"instruction-following","content":"Prompt: Return exactly three numbered steps.\nResponse: Here is one paragraph with advice."}

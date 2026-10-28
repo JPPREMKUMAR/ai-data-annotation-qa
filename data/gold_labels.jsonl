@@ -1,0 +1,6 @@
+{"record_id":"annotation-001","label":"correct","rationale":"The arithmetic result is correct and answers the stated prompt."}
+{"record_id":"annotation-002","label":"incorrect","rationale":"The arithmetic is wrong: 2 + 2 equals 4."}
+{"record_id":"annotation-003","label":"incomplete","rationale":"The response omits the requested condition, such as the reference pressure."}
+{"record_id":"annotation-004","label":"misleading","rationale":"The answer overgeneralizes; many bacteria do not cause disease."}
+{"record_id":"annotation-005","label":"ambiguous","rationale":"The candidates and evaluation criteria needed to compare answers are missing."}
+{"record_id":"annotation-006","label":"incomplete","rationale":"It does not provide the exactly three numbered steps requested."}
